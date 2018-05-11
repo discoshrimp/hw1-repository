@@ -32,3 +32,19 @@ img {
     width: 350px;
 
 }
+#button
+{
+    background-color: purple;
+    font-weight: bold;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px 10px 10px 10px;
+    border-color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
